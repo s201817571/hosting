@@ -29,7 +29,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		"eleven_multilingual_v2"
+	    ]
         },
         {
             "voice_id": "2EiwWnXFnvU5JabPnv8n",
@@ -93,7 +95,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		"eleven_multilingual_v2"
+	    ]
         },
         {
             "voice_id": "CYw3kZ02Hs0563khs1Fj",
@@ -221,7 +225,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		"eleven_multilingual_v2"
+	    ]
         },
         {
             "voice_id": "GBv7mTt0atIp3Br8iCZE",
@@ -547,7 +553,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		"eleven_multilingual_v2" 
+	    ]
         },
         {
             "voice_id": "VR6AewLTigWG4xSOukaG",
@@ -578,7 +586,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		 "eleven_multilingual_v2"   
+	    ]
         },
         {
             "voice_id": "XB0fDUnXU5powFXDhCwa",
@@ -1038,7 +1048,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		  "eleven_multilingual_v2"  
+	    ]
         },
         {
             "voice_id": "piTKgcLEGmPE4e6mEKli",
@@ -1168,7 +1180,9 @@
             "available_for_tiers": [],
             "settings": null,
             "sharing": null,
-            "high_quality_base_model_ids": []
+            "high_quality_base_model_ids": [
+		"eleven_multilingual_v2"  
+	    ]
         },
         {
             "voice_id": "z9fAnlkpzviPz146aGWa",
@@ -1302,8 +1316,8 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
-            "voice_id": "	pqHfZKP75CvOlQylNhV4",
+	{
+            "voice_id": "pqHfZKP75CvOlQylNhV4",
             "name": "Bill",
             "samples": null,
             "category": "premade",
@@ -1335,7 +1349,7 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
+	{
             "voice_id": "nPczCjzI2devNBz1zQrb",
             "name": "Brian",
             "samples": null,
@@ -1368,7 +1382,7 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
+	{
             "voice_id": "iP95p4xoKVk53GoZ742B",
             "name": "Chris",
             "samples": null,
@@ -1401,7 +1415,7 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
+	{
             "voice_id": "29vD33N1CtxCmqQRPOHJ",
             "name": "Drew",
             "samples": null,
@@ -1434,7 +1448,7 @@
                 "eleven_multilingual_v2"
             ]
         },
-		{
+	{
             "voice_id": "JBFqnCBsd6RMkjVDRZzb",
             "name": "George",
             "samples": null,
@@ -1467,7 +1481,7 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
+	{
             "voice_id": "pFZP5JQG7iQjIQuC4Bku",
             "name": "Lily",
             "samples": null,
@@ -1500,7 +1514,7 @@
                 "eleven_turbo_v2"
             ]
         },
-		{
+	{
             "voice_id": "5Q0t7uMcjvnagumLfvZi",
             "name": "Paul",
             "samples": null,
@@ -1533,7 +1547,7 @@
                 "eleven_multilingual_v2"
             ]
         },
-		{
+	{
             "voice_id": "EXAVITQu4vr4xnSDxMaL",
             "name": "Sarah",
             "samples": null,
