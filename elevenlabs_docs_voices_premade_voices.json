@@ -1268,6 +1268,303 @@
             "high_quality_base_model_ids": [
                 "eleven_multilingual_v1"
             ]
+        },
+        {
+            "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+            "name": "Alice",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "british",
+                "description": "confident",
+                "age": "middle aged",
+                "gender": "female",
+                "use case": "news"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/Xb7hH8MSUJpSbSDYk0k2/f5409e2f-d9c3-4ac9-9e7d-916a5dbd1ef1.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "	pqHfZKP75CvOlQylNhV4",
+            "name": "Bill",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "strong",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "documentary"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/pqHfZKP75CvOlQylNhV4/52f0842a-cf81-4715-8cf0-76cfbd77088e.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "nPczCjzI2devNBz1zQrb",
+            "name": "Brian",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "deep",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "narration"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/nPczCjzI2devNBz1zQrb/f4dbda0c-aff0-45c0-93fa-f5d5ec95a2eb.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "iP95p4xoKVk53GoZ742B",
+            "name": "Chris",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "casual",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "conversational"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/iP95p4xoKVk53GoZ742B/c1bda571-7123-418e-a796-a2b464b373b4.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "29vD33N1CtxCmqQRPOHJ",
+            "name": "Drew",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "well-rounded",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "news"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/29vD33N1CtxCmqQRPOHJ/e8b52a3f-9732-440f-b78a-16d5e26407a1.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_multilingual_v2"
+            ]
+        },
+		{
+            "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+            "name": "George",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "british",
+                "description": "raspy",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "narration"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/JBFqnCBsd6RMkjVDRZzb/365e8ae8-5364-4b07-9a3b-1bfb4a390248.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+            "name": "Lily",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "british",
+                "description": "raspy",
+                "age": "middle aged",
+                "gender": "female",
+                "use case": "narration"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/pFZP5JQG7iQjIQuC4Bku/0ab8bd74-fcd2-489d-b70a-3e1bcde8c999.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_turbo_v2"
+            ]
+        },
+		{
+            "voice_id": "5Q0t7uMcjvnagumLfvZi",
+            "name": "Paul",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "ground reporter",
+                "age": "middle aged",
+                "gender": "male",
+                "use case": "news"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/5Q0t7uMcjvnagumLfvZi/1094515a-b080-4282-aac7-b1b8a553a3a8.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_multilingual_v2"
+            ]
+        },
+		{
+            "voice_id": "EXAVITQu4vr4xnSDxMaL",
+            "name": "Sarah",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {
+                "accent": "american",
+                "description": "soft",
+                "age": "young",
+                "gender": "female",
+                "use case": "news"
+            },
+            "description": null,
+            "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/EXAVITQu4vr4xnSDxMaL/6851ec91-9950-471f-8586-357c52539069.mp3",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null,
+            "high_quality_base_model_ids": [
+                "eleven_multilingual_v2"
+            ]
         }
     ]
 }
