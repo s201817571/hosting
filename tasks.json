@@ -33,6 +33,10 @@
     {
       "task_number": "4",
       "task_amount": 0.06
+    },
+    {
+      "task_number": "1",
+      "task_amount": 0.8
     }
   ]
 }
