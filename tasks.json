@@ -1,16 +1,40 @@
 {
-  "2024-10-07": [
+  "2024-10-05": [
     {
       "task_number": "1",
-      "task_amount": "0.03"
+      "task_amount": "0.90"
     },
     {
       "task_number": "2",
-      "task_amount": "0.05"
+      "task_amount": "0.10"
     },
     {
       "task_number": "3",
-      "task_amount": "0.02"
+      "task_amount": "0.55"
+    }
+  ],
+  "2024-10-06": [
+    {
+      "task_number": "1",
+      "task_amount": "0.33"
+    },
+    {
+      "task_number": "2",
+      "task_amount": "0.15"
+    }
+  ],
+  "2024-10-07": [
+    {
+      "task_number": "1",
+      "task_amount": "1.03"
+    },
+    {
+      "task_number": "2",
+      "task_amount": "0.25"
+    },
+    {
+      "task_number": "3",
+      "task_amount": "0.12"
     }
   ]
 }
