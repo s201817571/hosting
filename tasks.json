@@ -3,6 +3,10 @@
     {
       "task_number": "1",
       "task_amount": 0.03
+    },
+    {
+      "task_number": "",
+      "task_amount": null
     }
   ]
 }
