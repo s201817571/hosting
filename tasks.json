@@ -1,24 +1,3 @@
 {
-  "2024-10-12": [
-    {
-      "task_number": "1",
-      "task_amount": "1.5"
-    },
-    {
-      "task_number": 2,
-      "task_amount": 0.2
-    },
-    {
-      "task_number": 3,
-      "task_amount": 0.3
-    },
-    {
-      "task_number": 3,
-      "task_amount": 1
-    },
-    {
-      "task_number": 4,
-      "task_amount": 2
-    }
-  ]
+  
 }
