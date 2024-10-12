@@ -1,4 +1,4 @@
-// Function to update current date and time
+ // Function to update current date and time
          function updateDateTime() {
              const now = new Date();
              document.getElementById('currentDate').innerText = now.toLocaleDateString();
@@ -90,31 +90,40 @@
          }
          
          // Add Task Button event
-         document.getElementById('addTaskButton').addEventListener('click', function() {
-             const taskNumber = document.getElementById('taskNumber').value;
-             const taskAmount = document.getElementById('taskAmount').value;
-         
-             if (taskNumber && taskAmount) {
-                 fetch('/add-task', {
-                     method: 'POST',
-                     headers: {
-                         'Content-Type': 'application/json'
-                     },
-                     body: JSON.stringify({ task_number: taskNumber, task_amount: taskAmount })
-                 })
-                 .then(response => {
-                     if (response.ok) {
-                         loadReport(); // Reload the report after adding
-                         document.getElementById('taskNumber').value = ''; // Reset task number field
-                         document.getElementById('taskAmount').value = ''; // Reset task amount field
-                     } else {
-                         alert('Failed to add task.');
-                     }
-                 });
-             } else {
-                 alert('Please fill in both fields.');
-             }
-         });
+document.getElementById('addTaskButton').addEventListener('click', function() {
+    const taskNumber = document.getElementById('taskNumber').value;
+    const taskAmount = document.getElementById('taskAmount').value;
+
+    // Check if taskNumber is an integer
+    if (!Number.isInteger(Number(taskNumber)) || Number(taskNumber) <= 0) {
+        alert('Please enter a valid integer for Task Number.');
+        return;
+    }
+
+    // Check if taskAmount is a float
+    if (isNaN(taskAmount) || parseFloat(taskAmount) <= 0) {
+        alert('Please enter a valid float number for Task Amount.');
+        return;
+    }
+
+    fetch('/add-task', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ task_number: parseInt(taskNumber), task_amount: parseFloat(taskAmount) })
+    })
+    .then(response => {
+        if (response.ok) {
+            loadReport(); // Reload the report after adding
+            document.getElementById('taskNumber').value = ''; // Reset task number field
+            document.getElementById('taskAmount').value = ''; // Reset task amount field
+        } else {
+            alert('Failed to add task.');
+        }
+    });
+});
+
          
          // Reset Button event
          document.getElementById('resetButton').addEventListener('click', function() {
