@@ -88,5 +88,11 @@
       "task_number": "23",
       "task_amount": "2"
     }
+  ],
+  "2024-10-14": [
+    {
+      "task_number": "24",
+      "task_amount": "0.05"
+    }
   ]
 }
