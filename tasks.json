@@ -11,6 +11,10 @@
     {
       "task_number": 3,
       "task_amount": 0.07
+    },
+    {
+      "task_number": "4",
+      "task_amount": "1"
     }
   ]
 }
