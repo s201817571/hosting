@@ -5,7 +5,7 @@
       "task_amount": "60.02"
     }
   ],
-  "2024-10-07": [
+  "2024-10-08": [
     {
       "task_number": "1",
       "task_amount": "5"
@@ -61,20 +61,6 @@
     {
       "task_number": "18",
       "task_amount": "0.05"
-    }
-  ],
-  "2024-10-11": [
-    {
-      "task_number": "19",
-      "task_amount": "0.25"
-    },
-    {
-      "task_number": "20",
-      "task_amount": "0.25"
-    },
-    {
-      "task_number": "21",
-      "task_amount": "0.25"
     }
   ],
   "2024-10-12": [
