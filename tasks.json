@@ -317,6 +317,10 @@
     {
       "task_number": "77",
       "task_amount": 0.012
+    },
+    {
+      "task_number": "78",
+      "task_amount": 0.01
     }
   ]
 }
