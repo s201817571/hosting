@@ -5,8 +5,8 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 6,
       "work_hours": 8,
-      "earned_revenue": 1.08,
-      "completed_hours": [1, 2, 3, 4, 5, 6],
+      "earned_revenue": 2.7755575615628914e-16,
+      "completed_hours": [],
       "entries": [
         {
           "timestamp": "2024-11-07T09:00:00Z",
@@ -14,7 +14,11 @@
           "tasks_per_hour": 6,
           "work_hours": 8,
           "earned_revenue": 0.54,
-          "completed_hours": [1, 2, 3]
+          "completed_hours": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "timestamp": "2024-11-07T14:30:00Z",
@@ -22,10 +26,17 @@
           "tasks_per_hour": 6,
           "work_hours": 8,
           "earned_revenue": 1.08,
-          "completed_hours": [1, 2, 3, 4, 5, 6]
+          "completed_hours": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
         }
       ]
     }
   ],
-  "last_updated": "2024-11-07T15:36:00Z"
+  "last_updated": "2024-11-07T15:40:56.742565"
 }
