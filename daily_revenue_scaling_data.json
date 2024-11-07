@@ -1,9 +1,9 @@
 {
   "revenue_data": [
     {
-      "amount_per_task": 0.06,
-      "tasks_per_hour": 1,
-      "work_hours": 1,
+      "amount_per_task": 0.03,
+      "tasks_per_hour": 6,
+      "work_hours": 12,
       "earned_revenue": 0.18,
       "completed_hours": [
         1,
@@ -13,5 +13,5 @@
       "date": "2024-11-07"
     }
   ],
-  "last_updated": "2024-11-07T18:01:23.670980"
+  "last_updated": "2024-11-07T18:01:52.330825"
 }
