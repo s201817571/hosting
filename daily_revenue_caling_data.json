@@ -2,37 +2,30 @@
   "revenue_data": [
     {
       "date": "2024-11-07",
+      "amount_per_task": 0.03,
+      "tasks_per_hour": 6,
+      "work_hours": 8,
+      "earned_revenue": 1.08,
+      "completed_hours": [1, 2, 3, 4, 5, 6],
       "entries": [
         {
-          "timestamp": "2024-11-07T15:12:39.709335",
-          "amount_per_task": 0.02,
-          "tasks_per_hour": 3,
-          "work_hours": 3,
-          "daily_total_revenue": 0.18
-        },
-        {
-          "timestamp": "2024-11-07T15:15:07.497917",
-          "amount_per_task": 0.08,
+          "timestamp": "2024-11-07T09:00:00Z",
+          "amount_per_task": 0.03,
           "tasks_per_hour": 6,
-          "work_hours": 1,
-          "daily_total_revenue": 0.48
+          "work_hours": 8,
+          "earned_revenue": 0.54,
+          "completed_hours": [1, 2, 3]
         },
         {
-          "timestamp": "2024-11-07T15:15:55.067898",
-          "amount_per_task": 0.12,
-          "tasks_per_hour": 2,
-          "work_hours": 2,
-          "daily_total_revenue": 0.48
-        },
-        {
-          "timestamp": "2024-11-07T15:17:16.464037",
-          "amount_per_task": 0.12,
-          "tasks_per_hour": 2,
-          "work_hours": 2,
-          "daily_total_revenue": 0.48
+          "timestamp": "2024-11-07T14:30:00Z",
+          "amount_per_task": 0.03,
+          "tasks_per_hour": 6,
+          "work_hours": 8,
+          "earned_revenue": 1.08,
+          "completed_hours": [1, 2, 3, 4, 5, 6]
         }
       ]
     }
   ],
-  "last_updated": "2024-11-07T15:17:16.464037"
+  "last_updated": "2024-11-07T15:36:00Z"
 }
