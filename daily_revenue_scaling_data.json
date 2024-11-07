@@ -3,7 +3,7 @@
     {
       "amount_per_task": 0.03,
       "tasks_per_hour": 9,
-      "work_hours": 2,
+      "work_hours": 3,
       "earned_revenue": 0.54,
       "completed_hours": [
         1,
@@ -12,5 +12,5 @@
       "date": "2024-11-07"
     }
   ],
-  "last_updated": "2024-11-07T17:34:00.684202"
+  "last_updated": "2024-11-07T17:51:35.236020"
 }
