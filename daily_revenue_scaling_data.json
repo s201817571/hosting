@@ -31,13 +31,14 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 9,
       "work_hours": 10,
-      "earned_revenue": 0.54,
+      "earned_revenue": 0.81,
       "completed_hours": [
         1,
-        2
+        2,
+        3
       ],
       "date": "2024-11-10"
     }
   ],
-  "last_updated": "2024-11-10T18:15:12.341526"
+  "last_updated": "2024-11-10T20:47:41.792122"
 }
