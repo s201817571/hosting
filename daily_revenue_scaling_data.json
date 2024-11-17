@@ -101,10 +101,12 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 12,
       "work_hours": 4,
-      "earned_revenue": 0.0,
-      "completed_hours": [],
+      "earned_revenue": 0.36,
+      "completed_hours": [
+        1
+      ],
       "date": "2024-11-17"
     }
   ],
-  "last_updated": "2024-11-17T14:52:41.836682"
+  "last_updated": "2024-11-17T14:52:47.392189"
 }
