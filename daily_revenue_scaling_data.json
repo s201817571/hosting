@@ -147,8 +147,8 @@
     {
       "amount_per_task": 0.04,
       "tasks_per_hour": 24,
-      "work_hours": 3,
-      "earned_revenue": 1.92,
+      "work_hours": 4,
+      "earned_revenue": 2.88,
       "completed_hours": [
         1,
         2,
@@ -157,5 +157,5 @@
       "date": "2024-12-05"
     }
   ],
-  "last_updated": "2024-12-05T23:55:35.928305"
+  "last_updated": "2024-12-05T23:55:58.793727"
 }
