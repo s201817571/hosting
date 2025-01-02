@@ -1024,5 +1024,11 @@
       "task_number": "242",
       "task_amount": 0.07
     }
+  ],
+  "2025-01-02": [
+    {
+      "task_number": "243",
+      "task_amount": 0.52
+    }
   ]
 }
