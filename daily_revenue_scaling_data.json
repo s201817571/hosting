@@ -189,7 +189,15 @@
       "earned_revenue": 0.0,
       "completed_hours": [],
       "date": "2025-01-06"
+    },
+    {
+      "amount_per_task": 0.03,
+      "tasks_per_hour": 5,
+      "work_hours": 12,
+      "earned_revenue": 0.0,
+      "completed_hours": [],
+      "date": "2025-01-10"
     }
   ],
-  "last_updated": "2025-01-06T09:39:01.052786"
+  "last_updated": "2025-01-10T15:14:53.937675"
 }
