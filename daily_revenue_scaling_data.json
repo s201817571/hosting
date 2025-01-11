@@ -202,10 +202,12 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 5,
       "work_hours": 10,
-      "earned_revenue": 0.0,
-      "completed_hours": [],
+      "earned_revenue": 0.15,
+      "completed_hours": [
+        1
+      ],
       "date": "2025-01-11"
     }
   ],
-  "last_updated": "2025-01-11T14:39:22.789534"
+  "last_updated": "2025-01-11T15:24:54.854837"
 }
