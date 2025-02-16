@@ -1312,5 +1312,11 @@
       "task_number": "301",
       "task_amount": 0.79
     }
+  ],
+  "2025-02-16": [
+    {
+      "task_number": "302",
+      "task_amount": 0.3
+    }
   ]
 }
