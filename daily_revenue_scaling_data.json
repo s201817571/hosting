@@ -286,12 +286,13 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 6,
       "work_hours": 12,
-      "earned_revenue": 0.18,
+      "earned_revenue": 0.36,
       "completed_hours": [
-        1
+        1,
+        2
       ],
       "date": "2025-03-26"
     }
   ],
-  "last_updated": "2025-03-26T06:52:28.449067"
+  "last_updated": "2025-03-26T08:30:58.468072"
 }
