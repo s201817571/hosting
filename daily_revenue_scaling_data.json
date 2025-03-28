@@ -297,11 +297,11 @@
     {
       "amount_per_task": 0.03,
       "tasks_per_hour": 4,
-      "work_hours": 6,
+      "work_hours": 10,
       "earned_revenue": 0.0,
       "completed_hours": [],
       "date": "2025-03-28"
     }
   ],
-  "last_updated": "2025-03-28T12:40:51.917890"
+  "last_updated": "2025-03-28T12:41:23.575155"
 }
