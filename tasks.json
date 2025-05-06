@@ -1528,5 +1528,11 @@
       "task_number": "345",
       "task_amount": 0.32
     }
+  ],
+  "2025-05-06": [
+    {
+      "task_number": "346",
+      "task_amount": 0.83
+    }
   ]
 }
