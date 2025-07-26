@@ -3,8 +3,17 @@
     "id": 1753547223585,
     "targetAmount": 0.12,
     "durationSeconds": 262800,
-    "currentAmount": 0,
+    "currentAmount": 0.00001689497716894977,
     "ratePerSecond": 4.5662100456621004e-7,
+    "elapsedSeconds": 37,
+    "active": true
+  },
+  {
+    "id": 1753547268929,
+    "targetAmount": 0.12,
+    "durationSeconds": 3600,
+    "currentAmount": 0,
+    "ratePerSecond": 0.000033333333333333335,
     "elapsedSeconds": 0,
     "active": true
   }
