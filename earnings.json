@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1753547223585,
+    "targetAmount": 0.12,
+    "durationSeconds": 262800,
+    "currentAmount": 0,
+    "ratePerSecond": 4.5662100456621004e-7,
+    "elapsedSeconds": 0,
+    "active": true
+  }
+]
