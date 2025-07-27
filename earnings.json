@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1753549203032,
-    "targetAmount": 10,
-    "durationSeconds": 3600,
-    "currentAmount": 0,
-    "ratePerSecond": 0.002777777777777778,
-    "elapsedSeconds": 0,
-    "active": true,
-    "addedAt": "7/26/2025, 8:00:03 PM"
-  }
-]
+[]
