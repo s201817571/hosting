@@ -3,5 +3,10 @@
     "amount": 25,
     "hours": 1,
     "startTime": "2025-07-27T08:55:05.618Z"
+  },
+  {
+    "amount": 0.12,
+    "hours": 1,
+    "startTime": "2025-07-27T08:56:40.873Z"
   }
 ]
