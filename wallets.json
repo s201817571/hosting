@@ -20,5 +20,11 @@
       "label": "Default Wallet",
       "address": "0xabcdefabcdefabcdef"
     }
-  ]
+  ],
+  "Banance": {
+    "USDT": {
+      "address": "DSFSDDFGDGDFGDFG",
+      "dateAdded": "2025-08-20T18:28:08.666Z"
+    }
+  }
 }
