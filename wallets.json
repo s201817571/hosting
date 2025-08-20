@@ -1,12 +1,7 @@
 {
   "platforms": {
     "MetaMask": {
-      "wallets": {
-        "Primary Wallet": {
-          "address": "0x1111222233334444555566667777888899990000",
-          "timestamp": "2025-01-20T08:30:00.000Z"
-        }
-      }
+      "wallets": {}
     }
   }
 }
