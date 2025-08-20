@@ -1,26 +1,4 @@
 {
-  "Binance": [
-    {
-      "label": "Main Wallet",
-      "address": "0x123456789abcdef"
-    },
-    {
-      "label": "Savings Wallet",
-      "address": "0xaabbccddeeff0011"
-    }
-  ],
-  "Bybit": [
-    {
-      "label": "USDT Wallet",
-      "address": "0x987654321fedcba"
-    }
-  ],
-  "RedotPay": [
-    {
-      "label": "Default Wallet",
-      "address": "0xabcdefabcdefabcdef"
-    }
-  ],
   "Banance": {
     "USDT": {
       "address": "DSFSDDFGDGDFGDFG",
