@@ -1,14 +1,20 @@
 {
   "Redotpay": {
-    "USDT ~°(Arbitrum)": {
+    "USDT ~Â°(Arbitrum)": {
       "address": "0x80649E95D6B76D2a7b1F9EC51E98582236C708fA",
       "dateAdded": "2025-08-25T13:31:11.464Z"
     }
   },
   "Bybit": {
-    "LTC Litecoin ~�(LTC)": {
+    "LTC Litecoin ~°(LTC)": {
       "address": "LTDQzjDRyjVjMGMdV82hH2rmuePtSXK62E",
       "dateAdded": "2025-08-29T14:04:01.944Z"
+    }
+  },
+  "Kast": {
+    "USDT ~�(Arbitrum)": {
+      "address": "0x358dc2dcba5865673b252576f1be7ab8b67577e6",
+      "dateAdded": "2025-08-29T18:41:49.133Z"
     }
   }
 }
