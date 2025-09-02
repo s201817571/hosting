@@ -418,14 +418,15 @@
       "amount_per_task": 0.03,
       "tasks_per_hour": 5,
       "work_hours": 8,
-      "earned_revenue": 0.44999999999999996,
+      "earned_revenue": 0.6,
       "completed_hours": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "date": "2025-09-02"
     }
   ],
-  "last_updated": "2025-09-02T18:13:49.748546"
+  "last_updated": "2025-09-02T19:08:48.478719"
 }
