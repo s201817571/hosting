@@ -3,6 +3,10 @@
     "USDT ~Ãƒâ€šÃ‚Â°(Arbitrum)": {
       "address": "0x80649E95D6B76D2a7b1F9EC51E98582236C708fA",
       "dateAdded": "2025-08-25T13:31:11.464Z"
+    },
+    "BNB - Smart Chain ~ (BEP20)": {
+      "address": "0x80649E95D6B76D2a7b1F9EC51E98582236C708fA",
+      "dateAdded": "2025-09-04T21:50:08.637Z"
     }
   },
   "Bybit": {
@@ -24,7 +28,7 @@
     }
   },
   "Payeer": {
-    "LTC Litecoin ~�(LTC)": {
+    "LTC Litecoin ~�(LTC)": {
       "address": "ltc1q9pxe0v0tqcmruxhhnwdxpdx0rk8mezcc39x8pp",
       "dateAdded": "2025-09-04T10:18:36.869Z"
     }
