@@ -3,7 +3,7 @@
       top: 0;
       left: 0;
       right: 0;
-      background: linear-gradient(135deg, #1e3a5f 0%, #2d4a6f 100%);
+      background: linear-gradient(135deg, #5c28b3 0%, #7457c7 100%);
       color: white;
       padding: 3px 2px;
       display: flex;
@@ -242,4 +242,5 @@
       body.unu-bar-active {
       padding-top: 120px;
       }
+
       }
