@@ -14,29 +14,33 @@
     }
   },
   "Bybit": {
-    "LTC Litecoin ~Ã‚Â°(LTC)": {
+    "LTC Litecoin ~Ãƒâ€šÃ‚Â°(LTC)": {
       "address": "LTDQzjDRyjVjMGMdV82hH2rmuePtSXK62E",
       "dateAdded": "2025-08-29T14:04:01.944Z"
     }
   },
   "Kast": {
-    "USDT ~Â°(Arbitrum)": {
+    "USDT ~Ã‚Â°(Arbitrum)": {
       "address": "0x358dc2dcba5865673b252576f1be7ab8b67577e6",
       "dateAdded": "2025-08-29T18:41:49.133Z"
     }
   },
   "Binance": {
-    "LTC Litecoin ~°(LTC)": {
+    "LTC Litecoin ~Â°(LTC)": {
       "address": "LWRG643a3dLGMZ5DE8FX7tcA53D19FyVjh",
       "dateAdded": "2025-09-03T19:19:41.422Z"
     },
-    "USDC  ~�BNB Smart Chain (BEP20)": {
+    "USDC  ~°BNB Smart Chain (BEP20)": {
       "address": "0xe25bde84ac39878b41da06f7a6c08e3c1c9ba1b4",
       "dateAdded": "2026-01-13T06:15:37.264Z"
+    },
+    "USDT ~ BNB Smart Chain (BEP20)": {
+      "address": "0xe25bde84ac39878b41da06f7a6c08e3c1c9ba1b4",
+      "dateAdded": "2026-01-13T06:18:19.763Z"
     }
   },
   "Payeer": {
-    "LTC Litecoin ~�(LTC)": {
+    "LTC Litecoin ~ï¿½(LTC)": {
       "address": "ltc1q9pxe0v0tqcmruxhhnwdxpdx0rk8mezcc39x8pp",
       "dateAdded": "2025-09-04T10:18:36.869Z"
     }
