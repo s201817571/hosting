@@ -22,9 +22,13 @@
       "address": "LTDQzjDRyjVjMGMdV82hH2rmuePtSXK62E",
       "dateAdded": "2025-08-29T14:04:01.944Z"
     },
-    "TON  ~network Chain°(TON)": {
+    "TON  ~network Chainï¿½(TON)": {
       "address": "UQB6zY65d4bxiouMatcipWmeoJsjREGp479A24jp3ePV2LbR",
       "dateAdded": "2026-03-31T05:28:54.253Z"
+    },
+    "USDT ~network Chain BSC (BEP20)": {
+      "address": "0xc05636f890903fc2bf4ad7c4b6a360a2489f2b30",
+      "dateAdded": "2026-03-31T05:43:02.660Z"
     }
   },
   "Kast": {
