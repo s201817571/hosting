@@ -501,10 +501,13 @@
       "amount_per_task": 0.02,
       "tasks_per_hour": 6,
       "work_hours": 8,
-      "earned_revenue": 0.0,
-      "completed_hours": [],
+      "earned_revenue": 0.24,
+      "completed_hours": [
+        1,
+        2
+      ],
       "date": "2026-07-18"
     }
   ],
-  "last_updated": "2026-07-18T02:41:13.308235"
+  "last_updated": "2026-07-18T02:42:49.043416"
 }
